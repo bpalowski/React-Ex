@@ -14,7 +14,7 @@ function Food(props){
           {availableProduce}
         </li>
 
-        )}
+      )}
 
 
     </div>
@@ -25,7 +25,7 @@ function Food(props){
 Food.propTypes={
 
   month: PropTypes.string.isRequired,
-  section: PropTypes.string.isRequired,
+  selection: PropTypes.string.isRequired,
 };
 
 

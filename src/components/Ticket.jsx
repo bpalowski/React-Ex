@@ -3,17 +3,10 @@ import PropTypes from 'prop-types';
 import vader from '../img/One.jpg';
 
 function Ticket(props){
-  // var myStyledComponentStyles = {
-  //   textAlign: 'center',
-  //   fontSize: '50px',
-  //   // backgroundColor: 'lightblue',
-  //   fontFamily: 'cursive',
-  //   // paddingTop: '10px',
-  //   color: 'red'
-  // };
+
 
   return (
-  // <div style={myStyledComponentStyles}>
+
     <div>
 
       <style jsx global>{`
